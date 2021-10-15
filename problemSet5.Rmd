@@ -79,11 +79,6 @@ Comment the shape, centre and spread of this distribution (1--2 sentences) and b
   
 ```
 
-#### ANSWER
-After restricting to just households earning less than $50,000 per year, we see a bimodal pattern with a mode around \$9,000 and another around \$42,000.
-Due to the bimodal nature of this data, a box plot wouldn't be very appropriate as it would hide this feature.
-#### ANSWER
-
 
 ### (d i) Select a random sample of size n=20 (without replacement) from the census data and produce an appropriate table and visualization (same as in (a), but for the new data). Set the seed as the last *three* digits of your student ID number.
 
