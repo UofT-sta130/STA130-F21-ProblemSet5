@@ -104,7 +104,7 @@ Due to the bimodal nature of this data, a box plot wouldn't be very appropriate 
 ```{r, fig.height=2}
 # set your seed so your values don't change each time!
 
-# get your sample of 10
+# get your sample of 100
 
 # make your plots and summary table
 # should be able to reuse code from a) / d) with small tweaks
@@ -127,9 +127,9 @@ Due to the bimodal nature of this data, a box plot wouldn't be very appropriate 
 
 ## [Question 2 — Real world]
 
-It is actually very hard to get a census of a whole town (why many countries only run their census every 10 years and why they cost so much!), so let's suppose we only have the sample of 1000 (`sample`). That is still a pretty big random sample!
+It is actually very hard to get a census of a whole town (why many countries only run their census every 10 years and why they cost so much!), so let's suppose we only have the sample of 1000 (`orig_sample`). That is still a pretty big random sample!
 
-### (a) Briefly describe the relationship between the two datasets, `census` and `sample`. The list of vocab words in part 2 might help. Aim to write 1--3 sentences.
+### (a) Briefly describe the relationship between the two datasets, `census` and `orig_sample`. The list of vocab words in part 2 might help. Aim to write 1--3 sentences.
 
 
 
